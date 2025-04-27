@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <table border="2" width="30%" align="center">
   <tr>
     <td>
-      Hello, My name is Robert!!!
+      Hello, My name is Robert
     </td>
     <td>
       I am 20-year-old
@@ -21,10 +21,10 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td>
-      Welcome to my Github Profile and view my repository !
+      Welcome to my Github Profile and view my repository!
     </td>
     <td>
-      <b>Have Fun !</b>
+      <b>Have Fun :)</b>
     </td>
   </tr>
 </table>
