@@ -21,10 +21,10 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td>
-      Welcome to my Github Profile and view my repositry!!!
+      Welcome to my Github Profile and view my repository !
     </td>
     <td>
-      <b>Have Fun!!!</b>
+      <b>Have Fun !</b>
     </td>
   </tr>
 </table>
