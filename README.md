@@ -10,7 +10,8 @@
 striker3-1/striker3-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<table border="2" width="30%" align="center">
+<hr>
+<table border="2" width="50%" align="center">
   <tr>
     <td>
       Hello, My name is Robert
@@ -20,10 +21,12 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
   <tr>
-    <td>
+    <td  colspan="2" align="center">
       Welcome to my Github Profile and view my repository!
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td  colspan="2" align="center">
       <b>Have Fun :)</b>
     </td>
   </tr>
